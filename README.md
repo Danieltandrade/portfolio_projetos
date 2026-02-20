@@ -43,7 +43,7 @@ A estrutura visual deste portfólio foi adaptada a partir do template **Editoria
 
 Estou sempre aberto a novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-torres-de-andrade-19a4742b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-torres-de-andrade/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieltorresandrade@gmail.com)
 
 ---
